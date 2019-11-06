@@ -1,0 +1,58 @@
+{
+	"list": [
+		{
+			"avatarList": ["/static/avatar.png", "/static/avatar.png"],
+			"lastMsg": {
+				"username": "zifeiyu",
+				"msg": "你好啊，我们可以做朋友么我们可以做朋友么？",
+				"time": "13：05"
+			},
+			"name": "聊天组1"
+		},
+		{
+			"avatarList": ["/static/avatar.png", "/static/avatar.png", "/static/avatar.png"],
+			"lastMsg": {
+				"username": "zifeiyu",
+				"msg": "你什么时间有空？",
+				"time": "13：08"
+			},
+			"name": "聊天组2"
+		},
+		{
+			"avatarList": ["/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png"],
+			"lastMsg": {
+				"username": "zifeiyu",
+				"msg": "我们群里有四个成员！",
+				"time": "13：08"
+			},
+			"name": "聊天组3"
+		},
+		{
+			"avatarList": ["/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png"],
+			"lastMsg": {
+				"username": "zifeiyu",
+				"msg": "我们群里有五个成员！",
+				"time": "13：08"
+			},
+			"name": "聊天组4"
+		},
+		{
+			"avatarList": ["/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png"],
+			"lastMsg": {
+				"username": "zifeiyu",
+				"msg": "我们群里有9个成员！",
+				"time": "13：08"
+			},
+			"name": "聊天组5 -- 我是一个很长很长很长很长很长很长很长很长很长很长的名字"
+		},
+		{
+			"avatarList": ["/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png"],
+			"lastMsg": {
+				"username": "zifeiyu",
+				"msg": "我们群里有好多个成员，头像只能显示前九个！",
+				"time": "13：08"
+			},
+			"name": "聊天组6"
+		}
+	]
+}
